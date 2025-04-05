@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "6343494d-fada-46c0-8686-df05300fd2b8",
+		"name": "cats_projet",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40905862"
+	},
+	"item": [
+		{
+			"name": "find_all",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/cats",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"cats"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "find_one_id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/cats/0",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"cats",
+						"0"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "task5",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/dogs",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"dogs"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
