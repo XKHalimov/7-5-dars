@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Mishka",
+      "age": 2,
+      "category": "Persian"
+    },
+    {
+      "id": 2,
+      "name": "Tomchi",
+      "age": 1,
+      "category": "Siamese"
+    },
+    {
+      "id": 3,
+      "name": "Barsik",
+      "age": 3,
+      "category": "Maine Coon"
+    },
+    {
+      "id": 4,
+      "name": "Lola",
+      "age": 4,
+      "category": "British Shorthair"
+    },
+    {
+      "id": 5,
+      "name": "Simba",
+      "age": 2,
+      "category": "Bengal"
+    },
+    {
+      "id": 6,
+      "name": "Murka",
+      "age": 5,
+      "category": "Ragdoll"
+    },
+    {
+      "id": 7,
+      "name": "Snowy",
+      "age": 1,
+      "category": "Sphynx"
+    },
+    {
+      "id": 8,
+      "name": "Charly",
+      "age": 3,
+      "category": "Russian Blue"
+    },
+    {
+      "id": 9,
+      "name": "Moti",
+      "age": 2,
+      "category": "Abyssinian"
+    },
+    {
+      "id": 10,
+      "name": "Kiki",
+      "age": 4,
+      "category": "Scottish Fold"
+    }
+  ]
+  
